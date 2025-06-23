@@ -1,0 +1,18 @@
+@import url("./__description/item__description.css");
+@import url("./__image/item__image.css");
+@import url("./__like-button/item__like-button.css");
+@import url("./__like-button/_is-active/item__like-button_is-active.css");
+@import url("./__delete-button/item__delete-button.css");
+@import url("./__delete-button/_hidden/item__delete-button_hidden.css");
+@import url("./__delete-button/_visible/item__delete-button_visible.css");
+@import url("./__title/item__title.css");
+@import url("./__like-count/item__like-count.css");
+
+.item {
+  font-family: "Inter", Arial, sans-serif;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+}

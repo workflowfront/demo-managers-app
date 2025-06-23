@@ -1,0 +1,9 @@
+.item__image {
+  min-height: 282px;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.item__image:hover {
+  cursor: pointer;
+}
